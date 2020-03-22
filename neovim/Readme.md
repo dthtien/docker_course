@@ -1,5 +1,5 @@
 # For learning docker
-- Setup neovim with config of [huytd](https://github.com/huytd/vim-config)
+- Setup neovim with configuration of [huytd](https://github.com/huytd/vim-config)
 ## Installation
 - Install docker
 - runing docker with repo
